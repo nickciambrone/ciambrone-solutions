@@ -16,7 +16,6 @@ function App() {
         backgroundColor: "#0a192f",
         display: "flex",
         flexDirection: "column",
-        overflow:'auto'
       }}
     >
       <Navbar />
