@@ -1,0 +1,38 @@
+@media (max-width: 480px) {
+    .contact-me{
+        text-align: left;
+    }
+    .contact-main{
+        width:100%;
+    
+    }
+    .contact{
+        display:flex;
+        flex-direction: column;
+    }
+    h5{
+        font-size: 1rem;
+    }
+    
+    }
+    
+    @media (min-width: 480px) {
+        .contact-me{
+            text-align: center;
+        }
+    
+     
+        .contact{
+            display:flex;
+            flex-direction: row;
+            width:100%
+        }
+        .contact-main{
+            width:100%
+        }
+        
+        }
+    
+    .contactField{
+        margin-bottom: 12px;
+    }

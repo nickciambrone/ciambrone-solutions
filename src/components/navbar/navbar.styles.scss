@@ -1,0 +1,17 @@
+.nav-text {
+    color: darkslategrey;
+    font-weight: 500;
+    font-size: 20px;
+    cursor: pointer;
+    &:hover{
+        color:black
+    }
+}
+.nav-text{
+    color: #ccd6f6; 
+    font-weight: 300;
+    &:hover{
+        color:#64ffdb
+    }
+}
+

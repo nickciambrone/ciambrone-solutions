@@ -1,0 +1,18 @@
+@media (max-width: 480px) {
+  .carousel-container {
+    width: 90%;
+    margin-left: 5%;
+  }
+  .description{
+    font-size: 12px;
+  }
+}
+@media (min-width: 480px) {
+  .carousel-container {
+    width: 45%;
+    margin-right: 1.5%;
+  }
+  .description{
+    font-size: 14px;
+  }
+}
