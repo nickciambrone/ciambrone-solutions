@@ -13,7 +13,7 @@ const Resume = () => {
         <div className="resume-item">
         <h3>Prudential Finanial</h3>
         <h6>Technology Consultant </h6>
-        <p> At Prudential, I am a technology specialist. I analyze technical systems and provided recommendations for how they could be improved. I also host seminars where I taught programming and financial technology to Financial Analysts and Managers.  </p>
+        <p> At Prudential, I am a technology specialist. I analyze technical systems and provide recommendations for how they could be improved. I also host seminars where I teach programming and financial technology to Financial Analysts and Managers.  </p>
       </div>
       <div className="resume-item">
       <h3>Meyer and Associates</h3>
