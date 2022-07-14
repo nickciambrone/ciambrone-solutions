@@ -4,7 +4,7 @@ import './about.styles.scss'
 const About = () =>{
 
     return(
-        <div className = 'about'  style={{minHeight:'100vh', color:'white', textAlign:'left', paddingBottom:'20px'}}>
+        <div className = 'about'  style={{ color:'white', textAlign:'left'}}>
             <span className='mynameis' >Hi, my name is </span>
             <h2 className = 'nickciambeast' style={{marginTop:'10px'}}>Nick Ciambrone.</h2>
             <h3 className='ibuild'>I build web and mobile apps.</h3>

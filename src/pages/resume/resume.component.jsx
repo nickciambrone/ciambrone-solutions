@@ -2,7 +2,7 @@ import React from 'react';
 
 const Resume = () =>{
     return(
-        <div className = 'resume'  style={{height:'100vh', color:'white'}}>
+        <div className = 'resume'  style={{color:'white'}}>
             Resume
         </div>
     )

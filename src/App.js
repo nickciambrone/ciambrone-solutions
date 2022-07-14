@@ -25,7 +25,6 @@ function App() {
           display: "flex",
           flexDirection: "row",
           backgroundColor: "#0a192f",
-          height:'100vh'
         }}
       >
         <div>

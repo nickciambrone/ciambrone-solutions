@@ -49,7 +49,7 @@ const Contact = () => {
   };
 
   return (
-    <div className ='contact' style={{height:'100vh', color:'white'}}>
+    <div className ='contact' style={{ color:'white'}}>
       <div className="contact-main" style = {{display:'flex', flexDirection:'column', textAlign:'left'}}>
       <h1 className = 'contact-me'>Contact Me</h1>
       <h5 style={{textAlign:'left'}}>I will provide a free consultation and then you can decide if you want to use my services
