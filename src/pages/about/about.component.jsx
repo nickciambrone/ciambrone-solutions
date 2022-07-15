@@ -13,7 +13,9 @@ const About = () =>{
             <p className = 'bio'>I am a developer specializing in building clean user interfaces for businesses. Whatever your idea is, I will turn it into a reality. 
             My background is in financial technology so you can depend on me to write the code necessary to charge your customers and get paid.  </p>
             <div className="fadeup-enter-done" style={{transitionDelay: "500ms"}}>
-                <div className="email-link"  onClick={() => navigate("/contact")}>Contact me</div>
+                <div className="email-link"  onClick={() => navigate("/contact")} style={{marginBottom:'8px'}}>E-mail me</div>
+                 
+                <div style={{fontSize:'14px'}}>My Cellphone: 201-527-5851</div>
             </div>
         </div>
     )
